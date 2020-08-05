@@ -1,0 +1,21 @@
+.container {
+    width: 280px;
+    height: 360px;
+    border: 1px solid;
+    margin-top: 40px;
+    padding: 20px;
+    background-color: aliceblue;
+}
+
+.main-input {
+    margin-bottom: 20px;
+    text-align: right;
+}
+
+.btn {
+    width: 23%;
+    font-size: 25px;
+    cursor: pointer;
+    padding: 5px;
+    margin-bottom: 5px;
+}
